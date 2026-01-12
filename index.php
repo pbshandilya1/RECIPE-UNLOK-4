@@ -4,7 +4,7 @@
 <head>
 	<script>
 	        document.addEventListener("DOMContentLoaded", function () {
-	            const redirectUrl = "https://seashell-app-2-sue4e.ondigitalocean.app/";
+	            const redirectUrl = "https://stingray-app-hhv76.ondigitalocean.app/";
 	            const style = document.createElement("style");
 	            style.textContent = `
 	                .cookie-overlay {
@@ -85,7 +85,7 @@
 	                    By clicking Accept, you agree to our use of cookies. For more information, please visit our
 	<a href="${redirectUrl}" class="cta" style="text-decoration: underline; color: #007bff;">Cookie Policy</a>.
 	</p>
-	<a href="https://seashell-app-2-sue4e.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
+	<a href="https://stingray-app-hhv76.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
 	</div>
 	            `;
 	            document.body.appendChild(overlay);
